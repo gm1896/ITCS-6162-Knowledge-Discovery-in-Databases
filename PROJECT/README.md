@@ -1,2 +1,1 @@
-# Knowledge_Discovery_in_Databases
-Repo contains the project work and the PPTs of ITCS 6162 Knowledge Discovery in Databases
+A STUDY ON FRAGILE STATE INDEX USING LISPMINER AND WEKA
